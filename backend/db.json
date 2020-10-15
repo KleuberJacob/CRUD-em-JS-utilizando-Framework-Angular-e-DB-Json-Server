@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro Retina",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansumg Galaxy S20 Plus",
+      "price": 7898.9
+    },
+    {
+      "name": "Iphone 12 Ultra",
+      "price": "9985.99",
+      "id": 4
+    }
+  ]
+}
